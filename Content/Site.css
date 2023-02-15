@@ -1,0 +1,72 @@
+﻿html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+hr {
+    margin: 1rem 0 !important;
+}
+
+i {
+    margin-right: .25rem;
+}
+
+.logoA {
+    max-width: 300px;
+}
+
+.logoJ {
+    max-width: 100px;
+}
+
+
+.b10 {
+    width: 10%!important
+}
+
+.b20 {
+    width: 20%!important
+}
+
+.b25 {
+    width: 25%!important
+}
+
+.b40 {
+    width: 40%!important
+}
+
+.b50 {
+    width: 50%!important
+}
+
+.b60 {
+    width: 60%!important
+}
+
+.b75 {
+    width: 75%!important
+}
+
+.b80 {
+    width: 80%!important
+}
+
+.bc {
+    width: 100%!important
+}
+
+input[type=checkbox] {
+    width: 17px !important;
+    height: 17px !important;
+}
